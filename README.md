@@ -35,7 +35,7 @@ CubeBeat is a tool for that drill, with a few quality-of-life features for cuber
 2. Tap the Share button → **Add to Home Screen**
 3. Tap the new icon — CubeBeat launches fullscreen with a dark theme
 
-If you're hosting on GitHub Pages, enable it under **Settings → Pages → Source: main / root**, and the URL will be `https://ianjohndawson.github.io/CubeBeat/cubebeat.html`.
+If you're hosting on GitHub Pages, enable it under **Settings → Pages → Source: main / root**, and the URL will be `https://ajgdsn.github.io/CubeBeat/cubebeat.html`.
 
 > **iOS sound note:** Web Audio respects the device's silent / mute switch on iOS. If you can't hear clicks, check the side switch and the volume in Control Centre. CubeBeat includes a silent audio loop trick that bypasses the switch in most cases, but a fully muted device will still be silent.
 
